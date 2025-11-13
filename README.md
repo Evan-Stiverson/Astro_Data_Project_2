@@ -43,9 +43,4 @@ Open `Project2_Stiverson.ipynb` in Jupyter Notebook and run all cells.
 
 Evan Stiverson
 Astro Data - Project 2
-# IDE
-.vscode/
-.idea/
 
-# Optional: plots if you don't want to commit them
-# exoplanet_plots.png
